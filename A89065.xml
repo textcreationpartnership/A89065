@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius benevolens. Nor prag. nor pol. not he, nor he. But a well-wishing Mercury. Shewing th'abuse of past and present times, with well-meant lessons, &amp; some other rimes. New, new, new, if newes in minde may ease you; true, true, true; truth cannot sure displease you. When from the Senate-House, or court, of newes we have but small report, then with an epigram let's sport.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89065</idno><idno type="EEBO-CITATION">99867052</idno>
+  <idno type="VID">119342</idno>
+  <idno type="EEBO-PROQUEST">2240925853</idno>
+  
+            <idno type="STC">Wing M1755</idno>
+            <idno type="STC">Thomason E1057_7</idno>
+            <idno type="STC">ESTC R208048</idno>
+            <idno type="PROQUEST">99867052</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867052e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89065)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119342)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 156:E1057[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius benevolens. Nor prag. nor pol. not he, nor he. But a well-wishing Mercury. Shewing th'abuse of past and present times, with well-meant lessons, &amp; some other rimes. New, new, new, if newes in minde may ease you; true, true, true; truth cannot sure displease you. When from the Senate-House, or court, of newes we have but small report, then with an epigram let's sport.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Hen. Brome, at the signe of the Gun in Ivy-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire, in verse.</note>
+                  <note>Annotation on Thomason copy: "Jan: 31 1660 Jan. 31"; the second 1 in the imprint date has been altered to read "0".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Satire, English --  17th century.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1714 --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119342:1"/>
+            <p> Mercurius Benevolens.</p>
+            <p>Not Prag. nor Pol. not he, nor he.</p>
+            <p>BUT A well-wishing Mercury.</p>
+            <lg>
+               <l>Shewing th' Abuse of past and present Times,</l>
+               <l>With well-meant Lessons, &amp; some other Rimes.</l>
+            </lg>
+            <lg>
+               <l>NEW, NEW, NEW, </l>
+               <l>If Newes in minde may ease you;</l>
+               <l>TRUE, TRUE, TRUE;</l>
+               <l>Truth cannot sure displease you.</l>
+            </lg>
+            <lg>
+               <l>When from the Senate-House, or Court,</l>
+               <l>Of Newes we have but small report,</l>
+               <l>Then with an Epigram let's sport.</l>
+            </lg>
+            <q>
+               <hi>Patri tuae patriae, Patriae tuo fratri, a portione tua (ut aequum est) distribue.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Hen. Brome,</hi> at the Signe of the Gun in <hi>Ivy-Lane,</hi> 1661.</p>
+         </div>
+         <div type="poet_to_his_verses">
+            <lg>
+               <pb facs="tcp:119342:2"/>
+               <l>Go forth my Lines; Jehovah great,</l>
+               <l>so bless you in your way;</l>
+               <l>That you to Good may men reclaim,</l>
+               <l>when they do go astray.</l>
+               <l>Go forth my Lines; may you be strong,</l>
+               <l>(though I am weak and old)</l>
+               <l>To throw down Vice, Vertue to raise,</l>
+               <l>therein may you be bold.</l>
+            </lg>
+            <lg>
+               <l>Short Lessons soon are learn'd with ease, delight:</l>
+               <l>That way's not long, whose end appears in sight.</l>
+            </lg>
+         </div>
+         <div type="to_the_reader">
+            <head>To the Readers.</head>
+            <lg>
+               <l>Readers and Friends, may it be understood,</l>
+               <l>I wish to you, as to my self, that good;</l>
+               <l>O may we all each other truly love,</l>
+               <l>As Children of one Father▪ God above.</l>
+               <l>How joyfull is it evermore to see</l>
+               <l>Brethren to live in Peace and Ʋnitie.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <lg>
+               <pb n="3" facs="tcp:119342:2"/>
+               <l>THe old Year now is past and gone;</l>
+               <l>the new Year is come in:</l>
+               <l>Lord make us new, forgive our old,</l>
+               <l>and keep us from new sin;</l>
+               <l>That a new Life, with a new Year,</l>
+               <l>we all may now begin.</l>
+            </lg>
+            <div type="poem">
+               <head>
+                  <hi>Democritus</hi> and <hi>Heraclitus.</hi>
+               </head>
+               <lg>
+                  <l>I laugh to see how vain men be:</l>
+                  <l>But when I spie their mischiefs high,</l>
+                  <l>O then I cry, and wish to dye;</l>
+                  <l>So griev'd am I.</l>
+                  <l>I laugh to see the vanities of men,</l>
+                  <l>To see their mischiefs, O I'me grieved then.</l>
+                  <l>Jocund <hi>Democritus</hi> in me I finde,</l>
+                  <l>And <hi>Heraclitus</hi> weeping sad in minde:</l>
+                  <l>I cry, I laugh, I laugh, agen I cry,</l>
+                  <l>Perplexed am, would live, yet wish to dye.</l>
+               </lg>
+               <lg>
+                  <l>Few things we guess at, which we see,</l>
+                  <l>but seldome guess aright:</l>
+                  <l>How shall we guess at things that be</l>
+                  <l>above us infinite?</l>
+                  <l>Alas, in that we all agree,</l>
+                  <l>with us it is dark night.</l>
+               </lg>
+               <lg>
+                  <l>The Rich should alwayes take care of the Poor;</l>
+                  <l>And the high Magistrate look to the lower,</l>
+                  <l>Else to all Looseness stands open a door.</l>
+                  <pb n="4" facs="tcp:119342:3"/>
+                  <l> Where all do rule, there's all misrule:</l>
+                  <l>no man can have his right;</l>
+                  <l>Were all men Kings, none could command:</l>
+                  <l>for Justice men must fight.</l>
+               </lg>
+               <lg>
+                  <l>Men, whilst they live, upon poor worms do tread;</l>
+                  <l>Worms on mens flesh do feed, when men are dead.</l>
+               </lg>
+               <lg>
+                  <l>We all are worms; our houses worm-holes be,</l>
+                  <l>A while to live in, not continually:</l>
+                  <l>This is the custome, so hath ever bin,</l>
+                  <l>One worm creeps out, another worm creeps in.</l>
+               </lg>
+               <lg>
+                  <l>If Prayer could make a poor man to be fat,</l>
+                  <l>He should be sure, to have enough of that.</l>
+                  <l>A poor man sinking cries, and shews his grief:</l>
+                  <l>God help thee, help thee, this is his relief.</l>
+                  <l>Hath God enabled thee? he doth command,</l>
+                  <l>When thou dost pray, to put thy helping hand:</l>
+                  <l>If thou doest not, better thy Prayer refrain;</l>
+                  <l>To pray, not do, thou tak'st Gods name in vain.</l>
+               </lg>
+               <lg>
+                  <l>O world of vanity, O world of strife!</l>
+                  <l>Who is't can live in thee a quiet life?</l>
+                  <l>Wise-men do order all things to their pow'r,</l>
+                  <l>Which Fools and Knaves disorder ev'ry hour:</l>
+                  <l>Wise-men indeavour to set all at peace;</l>
+                  <l>Knaves like it not, but Brabbles more increase:</l>
+                  <l>Wheres'ere a Wise-man and a Fool is seen,</l>
+                  <l>Be sure a Knave will thrust himself between.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="5" facs="tcp:119342:3"/>
+               <head>To tax the Poor, is to make more.</head>
+               <lg>
+                  <l>To relieve Beggars, from the Poor to take,</l>
+                  <l>As they relieve, so Beggars more they make:</l>
+                  <l>They onely should be taxt, who do abound,</l>
+                  <l>That Poor might thrive, and Beggars not be found.</l>
+               </lg>
+               <lg>
+                  <l>A Young-man seldome wise doth prove,</l>
+                  <l>until he's sorely bitten:</l>
+                  <l>He scorns advice, till 'tis too late,</l>
+                  <l>when folly hath him smitten.</l>
+               </lg>
+               <lg>
+                  <l>Amidst our Cups have we no other talk,</l>
+                  <l>But of Religion? let's rise up and walk:</l>
+                  <l>O, let's take heed, O let not ev'ry squall</l>
+                  <l>Dispute Religion, so make none at all.</l>
+               </lg>
+               <lg>
+                  <l>Children are pretty, and Young-men are witty:</l>
+                  <l>But Old men are fittest to govern a City.</l>
+               </lg>
+               <lg>
+                  <l>Have Men the pow'r? do Men rule Boyes?</l>
+                  <l>the World all happy peace enjoyes:</l>
+                  <l>Are Boyes set up? do Boyes rule Men?</l>
+                  <l>we must begin the World agen.</l>
+               </lg>
+               <lg>
+                  <l>A good Wife is a Crown of Gold,</l>
+                  <l>to grace her Husbands head;</l>
+                  <l>A scolding Dame's a Crown of Thorns,</l>
+                  <l>to scratch him, till he's dead.</l>
+               </lg>
+               <lg>
+                  <pb n="6" facs="tcp:119342:4"/>
+                  <l>The Lawyer sure the best esteem</l>
+                  <l>'mongst men deserve to have;</l>
+                  <l>He keeps a Good-man honest still,</l>
+                  <l>yea more he mends a Knave.</l>
+               </lg>
+               <lg>
+                  <l>O from this World how loth are men to part,</l>
+                  <l>The world, the World is alwayes in their heart.</l>
+               </lg>
+               <lg>
+                  <l>Man's but an earthen Vessel, and he's found,</l>
+                  <l>A broken Vessel, when he falls to th' ground:</l>
+                  <l>The Vessel broke, the Vessel holds no more,</l>
+                  <l>And useless grown, it's then thrown out o'th' door.</l>
+               </lg>
+               <lg>
+                  <l>When Death his fatal blow doth strike,</l>
+                  <l>Death makes the Rich and Poor alike:</l>
+                  <l>Here's a Lord, and here's a Slave;</l>
+                  <l>There's no difference in the Grave.</l>
+               </lg>
+               <lg>
+                  <l>Men all love Money, but to sev'rall ends;</l>
+                  <l>For good use, bad use, no use some intends:</l>
+                  <l>The Prodigal affects it, doth abuse it;</l>
+                  <l>The Miser huggs it, hath no heart to use it;</l>
+                  <l>The Good-man likes it for his needful uses;</l>
+                  <l>The Knave desires it to maintain abuses;</l>
+                  <l>The Wise to do good acts and fools to awe;</l>
+                  <l>Fools love to see't, and play with't like Jack-daw.</l>
+               </lg>
+               <lg>
+                  <l>O you Rich men of this City,</l>
+                  <l>Are you Christians, and not pitty</l>
+                  <l>Poor men begging for Christs sake?</l>
+                  <l>What accompt think you to make</l>
+                  <pb n="7" facs="tcp:119342:4"/>
+                  <l> To God, who made you Stewards here,</l>
+                  <l>When you shall starve his Children dear,</l>
+                  <l>And hoard up for your selves, no other,</l>
+                  <l>What God gave you, to give your Brother.</l>
+               </lg>
+               <lg>
+                  <l>A great Estate, O never prize,</l>
+                  <l>Wherewith is nought, but screaks and cryes;</l>
+                  <l>A small Estate contenteth meetly,</l>
+                  <l>Where in the Breast the Bird sings sweetly.</l>
+               </lg>
+               <lg>
+                  <l>Sin brought in Death; from Death we cannot flye:</l>
+                  <l>O mortal Man prepare thy self to dye:</l>
+                  <l>Repent, amend, in heavenly Graces thrive;</l>
+                  <l>And think of dead men, whom thou knew'st alive:</l>
+                  <l>Know this (as they) so thou must to the grave:</l>
+                  <l>Have Faith in Christ: Christ the whole Man will save.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>What Good is taught in earnest, or in jest,</hi>
+                  </l>
+                  <l>
+                     <hi>Learn it and do it; that you'l finde is best.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>A Penny spent, it is not alwayes lost;</hi>
+                  </l>
+                  <l>
+                     <hi>Sometimes a Pound is got with that small cost;</hi>
+                  </l>
+                  <l>
+                     <hi>And sure this Paper's not so empty bare,</hi>
+                  </l>
+                  <l>
+                     <hi>But in it's wrapt a penny-worth of Ware:</hi>
+                  </l>
+                  <l>
+                     <hi>Then pay your Penny; you'r my loving Friend,</hi>
+                  </l>
+                  <l>
+                     <hi>And I am yours: so in true love we end.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
